@@ -7,5 +7,6 @@ public class Main {
 		
 		System.out.println("Employee Management System");
 		System.out.println("git tranch my java code changes");
+		System.out.println("Learning Git diff command!");
 	}
 }
